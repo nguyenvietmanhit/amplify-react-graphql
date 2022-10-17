@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="334c218e-4817-4677-8838-4eb3396f65a7" name="trungduc">
+        <fileTransfer accessType="SFTP" host="66.42.54.34" port="8282" sshConfigId="5870a9d2-6b2e-4bf2-80ef-416b099e4da9" sshConfig="root@66.42.54.34:8282 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
